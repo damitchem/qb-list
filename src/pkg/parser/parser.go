@@ -183,7 +183,8 @@ func (p *Parser) parseServerQb(responseChan chan ServerQbList, errChan chan erro
 		}
 		if len(records) > 0 && strings.Contains(records[0], "unconfirmed data dump from server") {
 			unconfirmed = true
-			list.UnconfirmedLine = records[0]
+			records = append(records, "\n")
+			list.UnconfirmedLine = strings.Join(records, ",")
 			continue
 		}
 		err = list.addQb(records, unconfirmed)
