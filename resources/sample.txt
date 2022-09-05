@@ -1,0 +1,422 @@
+2022-08-27T20:27:01.3824508+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:06.2070369+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:06.2080288+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:06.2085250+00:00|BROADCAST|Page: 1 / 18
+2022-08-27T20:27:06.2090209+00:00|SYSTEM|abhorrenteaterjaw - Completed!
+2022-08-27T20:27:06.2100128+00:00|SYSTEM|AcademeyExitTokenGiven - Completed!
+2022-08-27T20:27:06.2115010+00:00|SYSTEM|AccessBoss18 - Completed!
+2022-08-27T20:27:06.2124930+00:00|SYSTEM|AccessBoss3 - Completed!
+2022-08-27T20:27:06.2129896+00:00|SYSTEM|AccessBoss5 - Completed!
+2022-08-27T20:27:06.2134850+00:00|SYSTEM|AccessBoss7 - Completed!
+2022-08-27T20:27:06.2139808+00:00|SYSTEM|AccessBoss8 - Completed!
+2022-08-27T20:27:06.2149732+00:00|SYSTEM|AerbaxChestKey1Pickup - Completed!
+2022-08-27T20:27:06.2154691+00:00|SYSTEM|aerbaxcitadelrewards1 - Completed!
+2022-08-27T20:27:06.2164611+00:00|SYSTEM|AerbaxCompletedWait - Completed!
+2022-08-27T20:27:06.2169570+00:00|SYSTEM|aerbaxmaskshardpickuptimer - Completed!
+2022-08-27T20:27:06.2174529+00:00|SYSTEM|AerbaxPlatformAccess - Completed!
+2022-08-27T20:27:06.2184449+00:00|SYSTEM|aerbaxshadowdefeated - Completed!
+2022-08-27T20:27:06.2189409+00:00|SYSTEM|aerbaxshadowdefeatedrepeat - Completed!
+2022-08-27T20:27:06.2199329+00:00|SYSTEM|AntiquePlatterQuest - Completed!
+2022-08-27T20:27:06.2204292+00:00|SYSTEM|ArantahKill1 - Completed!
+2022-08-27T20:27:06.2209253+00:00|SYSTEM|AugmentationBlankGemAcquired - Completed!
+2022-08-27T20:27:06.2219170+00:00|SYSTEM|AugmentationProvingGroundAccess - Completed!
+2022-08-27T20:27:06.2224135+00:00|SYSTEM|AunTeriona_Flag - Completed!
+2022-08-27T20:27:06.2234049+00:00|SYSTEM|AxeBrogordQuest - Completed!
+2022-08-27T20:27:06.2239008+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:07.6975153+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:07.6985072+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:07.6990035+00:00|BROADCAST|Page: 2 / 18
+2022-08-27T20:27:07.6999954+00:00|SYSTEM|BanderlingMaceHead - Completed!
+2022-08-27T20:27:07.7004911+00:00|SYSTEM|BanderlingMaceShaft - Completed!
+2022-08-27T20:27:07.7009872+00:00|SYSTEM|beacongemobtained - Completed!
+2022-08-27T20:27:07.7019792+00:00|SYSTEM|BraidMansionRuinCompleted_1111 - Completed!
+2022-08-27T20:27:07.7024753+00:00|SYSTEM|BrilliantShardGiven - Completed!
+2022-08-27T20:27:07.7034674+00:00|SYSTEM|BroodMatronCarapacePickedUp - Completed!
+2022-08-27T20:27:07.7044605+00:00|SYSTEM|BroodMatronCrestPickedUp - Completed!
+2022-08-27T20:27:07.7054519+00:00|SYSTEM|BroodMatronPincerPickedUp - Completed!
+2022-08-27T20:27:07.7059473+00:00|SYSTEM|BurFlagged(Gem) - Completed!
+2022-08-27T20:27:07.7069393+00:00|SYSTEM|BurFlagged(Metal) - Completed!
+2022-08-27T20:27:07.7074351+00:00|SYSTEM|CallingStoneGiven - Completed!
+2022-08-27T20:27:07.7079312+00:00|SYSTEM|ChampionKillQuest1 - Completed!
+2022-08-27T20:27:07.7094191+00:00|SYSTEM|ChampionQuest01 - Completed!
+2022-08-27T20:27:07.7109072+00:00|SYSTEM|ChasingOswaldDungeonFlag - Completed!
+2022-08-27T20:27:07.7128915+00:00|SYSTEM|ChasingOswaldRuschkIceHold - Completed!
+2022-08-27T20:27:07.7138832+00:00|SYSTEM|ChasingOswaldViamontPrison - Completed!
+2022-08-27T20:27:07.7153713+00:00|SYSTEM|ChestQuestUnlockedHigh - Completed!
+2022-08-27T20:27:07.7158681+00:00|SYSTEM|ChestQuestUnlockedLowDrudgeHideout - Completed!
+2022-08-27T20:27:07.7168597+00:00|SYSTEM|ChestQuestUnlockedLowPOID - Completed!
+2022-08-27T20:27:07.7173554+00:00|SYSTEM|ChestQuestUnlockedMid - Completed!
+2022-08-27T20:27:07.7183476+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:09.0843298+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:09.0853218+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:09.0863136+00:00|BROADCAST|Page: 3 / 18
+2022-08-27T20:27:09.0868097+00:00|SYSTEM|ColierMineTreasureKey - Completed!
+2022-08-27T20:27:09.0878021+00:00|SYSTEM|ColoArenaOneAccess - Completed!
+2022-08-27T20:27:09.0882980+00:00|SYSTEM|ColoR10Completed - Completed!
+2022-08-27T20:27:09.0892896+00:00|SYSTEM|ColoR11Completed - Completed!
+2022-08-27T20:27:09.0897857+00:00|SYSTEM|ColoR12Completed - Completed!
+2022-08-27T20:27:09.0902816+00:00|SYSTEM|ColoR13Completed - Completed!
+2022-08-27T20:27:09.0912735+00:00|SYSTEM|ColoR14Completed - Completed!
+2022-08-27T20:27:09.0917694+00:00|SYSTEM|ColoR15Completed - Completed!
+2022-08-27T20:27:09.0922657+00:00|SYSTEM|ColoR16Completed - Completed!
+2022-08-27T20:27:09.0942497+00:00|SYSTEM|ColoR17Completed - Completed!
+2022-08-27T20:27:09.0947457+00:00|SYSTEM|ColoR18Completed - Completed!
+2022-08-27T20:27:09.0957375+00:00|SYSTEM|ColoR1Completed - Completed!
+2022-08-27T20:27:09.0962337+00:00|SYSTEM|ColoR2Completed - Completed!
+2022-08-27T20:27:09.0967297+00:00|SYSTEM|ColoR3Completed - Completed!
+2022-08-27T20:27:09.0972257+00:00|SYSTEM|ColoR4Completed - Completed!
+2022-08-27T20:27:09.0982181+00:00|SYSTEM|ColoR5Completed - Completed!
+2022-08-27T20:27:09.0987140+00:00|SYSTEM|ColoR6Completed - Completed!
+2022-08-27T20:27:09.0992097+00:00|SYSTEM|ColoR7Completed - Completed!
+2022-08-27T20:27:09.1002016+00:00|SYSTEM|ColoR8Completed - Completed!
+2022-08-27T20:27:09.1006977+00:00|SYSTEM|ColoR9Completed - Completed!
+2022-08-27T20:27:09.1011936+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:10.4126163+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:10.4136080+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:10.4141041+00:00|BROADCAST|Page: 4 / 18
+2022-08-27T20:27:10.4146006+00:00|SYSTEM|CompletedColosseum - Completed!
+2022-08-27T20:27:10.4160881+00:00|SYSTEM|ContractQuestcounter_0511 - Completed!
+2022-08-27T20:27:10.4165840+00:00|SYSTEM|CopperInvaderLordHelm - Completed!
+2022-08-27T20:27:10.4170801+00:00|SYSTEM|copperknightmedallion - Completed!
+2022-08-27T20:27:10.4180719+00:00|SYSTEM|copperlegionchestkey - Completed!
+2022-08-27T20:27:10.4185681+00:00|SYSTEM|copperlegiondoorkey - Completed!
+2022-08-27T20:27:10.4190641+00:00|SYSTEM|counterfeitwritcratefakepearls - Completed!
+2022-08-27T20:27:10.4195601+00:00|SYSTEM|CounterfeitWritStart - Completed!
+2022-08-27T20:27:10.4205520+00:00|SYSTEM|coveapplewine - Completed!
+2022-08-27T20:27:10.4210483+00:00|SYSTEM|CowTipCounter - Completed!
+2022-08-27T20:27:10.4220402+00:00|SYSTEM|CowTipWait - Completed!
+2022-08-27T20:27:10.4225362+00:00|SYSTEM|DazzlingShardGiven - Completed!
+2022-08-27T20:27:10.4230321+00:00|SYSTEM|defenseofzaikhalroyalblood - Completed!
+2022-08-27T20:27:10.4240242+00:00|SYSTEM|DevastatedWatcherFlagged - Completed!
+2022-08-27T20:27:10.4245205+00:00|SYSTEM|DevastatedWatcherTokenGiven - Completed!
+2022-08-27T20:27:10.4250164+00:00|SYSTEM|DireChampSkeleton - Completed!
+2022-08-27T20:27:10.4260083+00:00|SYSTEM|DmesnePyrealBarGiven - Completed!
+2022-08-27T20:27:10.4265047+00:00|SYSTEM|DrudgeHideoutCompleted_1111 - Completed!
+2022-08-27T20:27:10.4270003+00:00|SYSTEM|DrudgePlan_Start - Completed!
+2022-08-27T20:27:10.4279922+00:00|SYSTEM|DryreachPrisonBreakQuest - Completed!
+2022-08-27T20:27:10.4284883+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:11.8812705+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:11.8827596+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:11.8837504+00:00|BROADCAST|Page: 5 / 18
+2022-08-27T20:27:11.8852385+00:00|SYSTEM|EFLLCenterManaFieldUsed - Completed!
+2022-08-27T20:27:11.8872227+00:00|SYSTEM|EFLLEastManaFieldUsed - Completed!
+2022-08-27T20:27:11.8887104+00:00|SYSTEM|EFLLNorthManaFieldUsed - Completed!
+2022-08-27T20:27:11.8906944+00:00|SYSTEM|EFLLSouthManaFieldUsed - Completed!
+2022-08-27T20:27:11.8916864+00:00|SYSTEM|EFLLWestManaFieldUsed - Completed!
+2022-08-27T20:27:11.8921822+00:00|SYSTEM|EFMLCenterManaFieldUsed - Completed!
+2022-08-27T20:27:11.8926787+00:00|SYSTEM|EFMLEastManaFieldUsed - Completed!
+2022-08-27T20:27:11.8936702+00:00|SYSTEM|EFMLNorthManaFieldUsed - Completed!
+2022-08-27T20:27:11.8941662+00:00|SYSTEM|EFMLSouthManaFieldUsed - Completed!
+2022-08-27T20:27:11.8951582+00:00|SYSTEM|EFMLWestManaFieldUsed - Completed!
+2022-08-27T20:27:11.8961503+00:00|SYSTEM|EFULCenterManaFieldUsed - Completed!
+2022-08-27T20:27:11.8966467+00:00|SYSTEM|EFULEastManaFieldUsed - Completed!
+2022-08-27T20:27:11.8976385+00:00|SYSTEM|EFULNorthManaFieldUsed - Completed!
+2022-08-27T20:27:11.8981344+00:00|SYSTEM|EFULSouthManaFieldUsed - Completed!
+2022-08-27T20:27:11.8991267+00:00|SYSTEM|EFULWestManaFieldUsed - Completed!
+2022-08-27T20:27:11.8996233+00:00|SYSTEM|ExplorationMarkersCraterCrasherFound - Completed!
+2022-08-27T20:27:11.9006146+00:00|SYSTEM|ExplorationMarkersDaredevilFound - Completed!
+2022-08-27T20:27:11.9011108+00:00|SYSTEM|ExplorationMarkersFound - Completed!
+2022-08-27T20:27:11.9021026+00:00|SYSTEM|ExplorationMarkersFoundInGroupA - Completed!
+2022-08-27T20:27:11.9030946+00:00|SYSTEM|fachubbanderlingcamp - Completed!
+2022-08-27T20:27:11.9035906+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:13.4957494+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:13.4972369+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:13.4977331+00:00|BROADCAST|Page: 6 / 18
+2022-08-27T20:27:13.4987252+00:00|SYSTEM|fachubbanderlingcampportal_flag - Completed!
+2022-08-27T20:27:13.4997172+00:00|SYSTEM|fachubbellig - Completed!
+2022-08-27T20:27:13.5002131+00:00|SYSTEM|fachubbelligportal_flag - Completed!
+2022-08-27T20:27:13.5012053+00:00|SYSTEM|fachubblackmire - Completed!
+2022-08-27T20:27:13.5017016+00:00|SYSTEM|fachubblackmireportal_flag - Completed!
+2022-08-27T20:27:13.5026935+00:00|SYSTEM|fachubcastle - Completed!
+2022-08-27T20:27:13.5031893+00:00|SYSTEM|fachubcastleportal_flag - Completed!
+2022-08-27T20:27:13.5046777+00:00|SYSTEM|fachubcatacombs - Completed!
+2022-08-27T20:27:13.5091404+00:00|SYSTEM|fachubcatacombsportal_flag - Completed!
+2022-08-27T20:27:13.5106286+00:00|SYSTEM|fachubcolier - Completed!
+2022-08-27T20:27:13.5116206+00:00|SYSTEM|fachubcolierportal_flag - Completed!
+2022-08-27T20:27:13.5121165+00:00|SYSTEM|fachubdangerouscatacombs - Completed!
+2022-08-27T20:27:13.5126125+00:00|SYSTEM|fachubdangerouscatacombsportal_flag - Completed!
+2022-08-27T20:27:13.5136044+00:00|SYSTEM|fachubdryreach - Completed!
+2022-08-27T20:27:13.5141005+00:00|SYSTEM|fachubdryreachportal_flag - Completed!
+2022-08-27T20:27:13.5150928+00:00|SYSTEM|fachubeastham - Completed!
+2022-08-27T20:27:13.5160849+00:00|SYSTEM|fachubeasthamportals_flag - Completed!
+2022-08-27T20:27:13.5170770+00:00|SYSTEM|fachubfledgemasterscamp - Completed!
+2022-08-27T20:27:13.5180687+00:00|SYSTEM|fachubfledgemasterscampportal_flag - Completed!
+2022-08-27T20:27:13.5190609+00:00|SYSTEM|fachubfolthid - Completed!
+2022-08-27T20:27:13.5195570+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:21.3424599+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:21.3439477+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:21.3449402+00:00|BROADCAST|Page: 7 / 18
+2022-08-27T20:27:21.3459312+00:00|SYSTEM|fachubfolthidportal_flag - Completed!
+2022-08-27T20:27:21.3464275+00:00|SYSTEM|fachubglendenwood - Completed!
+2022-08-27T20:27:21.3474196+00:00|SYSTEM|fachubglendenwoodportal_flag - Completed!
+2022-08-27T20:27:21.3494037+00:00|SYSTEM|fachubgreenmiregrave - Completed!
+2022-08-27T20:27:21.3503955+00:00|SYSTEM|fachubgreenmiregraveportal_flag - Completed!
+2022-08-27T20:27:21.3508917+00:00|SYSTEM|fachubhallsofhelm - Completed!
+2022-08-27T20:27:21.3513876+00:00|SYSTEM|fachubhallsofhelmportal_flag - Completed!
+2022-08-27T20:27:21.3523800+00:00|SYSTEM|fachubhauntedmansion - Completed!
+2022-08-27T20:27:21.3528754+00:00|SYSTEM|fachubhauntedmansionportal_flag - Completed!
+2022-08-27T20:27:21.3533715+00:00|SYSTEM|fachubhuntersleap - Completed!
+2022-08-27T20:27:21.3543639+00:00|SYSTEM|fachubhuntersleapportal_flag - Completed!
+2022-08-27T20:27:21.3548598+00:00|SYSTEM|fachubmitemaze - Completed!
+2022-08-27T20:27:21.3558514+00:00|SYSTEM|fachubmitemazeportal_flag - Completed!
+2022-08-27T20:27:21.3563477+00:00|SYSTEM|fachubmosswartcamp - Completed!
+2022-08-27T20:27:21.3573394+00:00|SYSTEM|fachubmosswartcampportal_flag - Completed!
+2022-08-27T20:27:21.3578353+00:00|SYSTEM|fachubmountainsewer - Completed!
+2022-08-27T20:27:21.3583314+00:00|SYSTEM|fachubmountainsewerportal_flag - Completed!
+2022-08-27T20:27:21.3593235+00:00|SYSTEM|fachubskeletonfort - Completed!
+2022-08-27T20:27:21.3598193+00:00|SYSTEM|fachubskeletonfortportal_flag - Completed!
+2022-08-27T20:27:21.3603154+00:00|SYSTEM|fachubsuntik - Completed!
+2022-08-27T20:27:21.3608114+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:22.4862340+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:22.4872259+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:22.4877224+00:00|BROADCAST|Page: 8 / 18
+2022-08-27T20:27:22.4887141+00:00|SYSTEM|fachubsuntikportal_flag - Completed!
+2022-08-27T20:27:22.4892099+00:00|SYSTEM|fachubtrothyrsrest - Completed!
+2022-08-27T20:27:22.4897059+00:00|SYSTEM|fachubtrothyrsrestportal_flag - Completed!
+2022-08-27T20:27:22.4906980+00:00|SYSTEM|FaciltyHubFound_1111 - Completed!
+2022-08-27T20:27:22.4911941+00:00|SYSTEM|fledgemastertusk - Completed!
+2022-08-27T20:27:22.4916900+00:00|SYSTEM|FledgemasterTuskRepeat - Completed!
+2022-08-27T20:27:22.4926821+00:00|SYSTEM|folthidshardpickup - Completed!
+2022-08-27T20:27:22.4931780+00:00|SYSTEM|forger'shideoutportal - Completed!
+2022-08-27T20:27:22.4936741+00:00|SYSTEM|ForgetfulnessGems1 - Completed!
+2022-08-27T20:27:22.4946666+00:00|SYSTEM|FoundSeantheSpeedy - Completed!
+2022-08-27T20:27:22.4951620+00:00|SYSTEM|GateKeepersFlagComplete - Completed!
+2022-08-27T20:27:22.4961543+00:00|SYSTEM|GemBaiDenQuest - Completed!
+2022-08-27T20:27:22.4968500+00:00|SYSTEM|GivenTibriSpear - Completed!
+2022-08-27T20:27:22.4971461+00:00|SYSTEM|glendeninvadersstarted - Completed!
+2022-08-27T20:27:22.4981383+00:00|SYSTEM|GolemMagmaExarchSlayerQuest - Completed!
+2022-08-27T20:27:22.4986344+00:00|SYSTEM|GonjokuAgreement - Completed!
+2022-08-27T20:27:22.4996261+00:00|SYSTEM|GotTamianJournal - Completed!
+2022-08-27T20:27:22.5001221+00:00|SYSTEM|GraverobberStarted_0213 - Completed!
+2022-08-27T20:27:22.5011145+00:00|SYSTEM|GreenMireCuirassQuest - Completed!
+2022-08-27T20:27:22.5016103+00:00|SYSTEM|GreenMireYariQuest - Completed!
+2022-08-27T20:27:22.5021063+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:25.2266307+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:25.2276228+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:25.2281189+00:00|BROADCAST|Page: 9 / 18
+2022-08-27T20:27:25.2286149+00:00|SYSTEM|HardunnaBandQuest - Completed!
+2022-08-27T20:27:25.2296069+00:00|SYSTEM|heawindreavekillcount - Completed!
+2022-08-27T20:27:25.2301030+00:00|SYSTEM|HeaWindreaveKillTask - Completed!
+2022-08-27T20:27:25.2310950+00:00|SYSTEM|HelpedAsheron - Completed!
+2022-08-27T20:27:25.2315909+00:00|SYSTEM|HoltburgAfrinCorn1204 - Completed!
+2022-08-27T20:27:25.2340712+00:00|SYSTEM|HoltburgAfrinDrudge1204 - Completed!
+2022-08-27T20:27:25.2350627+00:00|SYSTEM|HoltburgAfrinRye1204 - Completed!
+2022-08-27T20:27:25.2360556+00:00|SYSTEM|HoltburgAfrinWheat1204 - Completed!
+2022-08-27T20:27:25.2365513+00:00|SYSTEM|HoltburgNoteBrogord1204 - Completed!
+2022-08-27T20:27:25.2370476+00:00|SYSTEM|HoltburgRedoubtBowl1204 - Completed!
+2022-08-27T20:27:25.2380394+00:00|SYSTEM|HoltburgRedoubtCandlestick1204 - Completed!
+2022-08-27T20:27:25.2385348+00:00|SYSTEM|HoltburgRedoubtCompleted_1111 - Completed!
+2022-08-27T20:27:25.2395271+00:00|SYSTEM|HoltburgRedoubtGoblet1204 - Completed!
+2022-08-27T20:27:25.2400232+00:00|SYSTEM|HoltburgRedoubtHandbell1204 - Completed!
+2022-08-27T20:27:25.2405191+00:00|SYSTEM|HoltburgRedoubtLamp1204 - Completed!
+2022-08-27T20:27:25.2415114+00:00|SYSTEM|HoltburgRedoubtMug1204 - Completed!
+2022-08-27T20:27:25.2420073+00:00|SYSTEM|ImpiousQuestIronOre - Completed!
+2022-08-27T20:27:25.2429994+00:00|SYSTEM|insatiableeaterjaw - Completed!
+2022-08-27T20:27:25.2444872+00:00|SYSTEM|inscribedpurplegem - Completed!
+2022-08-27T20:27:25.2459748+00:00|SYSTEM|JacobsAxePickup - Completed!
+2022-08-27T20:27:25.2469669+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:26.5603733+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:26.5613653+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:26.5618613+00:00|BROADCAST|Page: 10 / 18
+2022-08-27T20:27:26.5628534+00:00|SYSTEM|JambiyaAbmimPickup - Completed!
+2022-08-27T20:27:26.5633495+00:00|SYSTEM|JitteKrauLiLesser - Completed!
+2022-08-27T20:27:26.5638455+00:00|SYSTEM|KilledMenacet - Completed!
+2022-08-27T20:27:26.5648376+00:00|SYSTEM|KilltaskKilifZefir - Completed!
+2022-08-27T20:27:26.5663252+00:00|SYSTEM|KilltaskKilifZefirWait - Completed!
+2022-08-27T20:27:26.5678133+00:00|SYSTEM|KingOolutangaEnter - Completed!
+2022-08-27T20:27:26.5693012+00:00|SYSTEM|LabPortalGem150 - Completed!
+2022-08-27T20:27:26.5707893+00:00|SYSTEM|LesserBenedictionAug - Completed!
+2022-08-27T20:27:26.5717812+00:00|SYSTEM|LilithasBowGiven - Completed!
+2022-08-27T20:27:26.5722774+00:00|SYSTEM|LorcaSammelNecklaceAcquired - Completed!
+2022-08-27T20:27:26.5727734+00:00|SYSTEM|LubziklanAgreement - Completed!
+2022-08-27T20:27:26.5737653+00:00|SYSTEM|LurzaSezzhereisLairGiven - Completed!
+2022-08-27T20:27:26.5742613+00:00|SYSTEM|MenacetsNote - Completed!
+2022-08-27T20:27:26.5747573+00:00|SYSTEM|MosswartTornShroud - Completed!
+2022-08-27T20:27:26.5757499+00:00|SYSTEM|MossyHerb - Completed!
+2022-08-27T20:27:26.5762457+00:00|SYSTEM|MowenFighter - Completed!
+2022-08-27T20:27:26.5767418+00:00|SYSTEM|MowenWait - Completed!
+2022-08-27T20:27:26.5772375+00:00|SYSTEM|MowenWinner - Completed!
+2022-08-27T20:27:26.5777337+00:00|SYSTEM|NiffSnitchGive - Completed!
+2022-08-27T20:27:26.5792215+00:00|SYSTEM|NiffSnitchUse - Completed!
+2022-08-27T20:27:26.5802135+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:28.0959878+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:28.0969796+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:28.0974756+00:00|BROADCAST|Page: 11 / 18
+2022-08-27T20:27:28.0979716+00:00|SYSTEM|NoteDrudgeScrawledPickup - Completed!
+2022-08-27T20:27:28.0989638+00:00|SYSTEM|NoteDukeEnricoAcquired0905 - Completed!
+2022-08-27T20:27:28.0999554+00:00|SYSTEM|NuhmudiraTokenQuestComplete - Completed!
+2022-08-27T20:27:28.1004516+00:00|SYSTEM|oldnectarpickup - Completed!
+2022-08-27T20:27:28.1009477+00:00|SYSTEM|OlthoiHunting1 - Completed!
+2022-08-27T20:27:28.1014439+00:00|SYSTEM|OlthoiHunting2 - Completed!
+2022-08-27T20:27:28.1024358+00:00|SYSTEM|OlthoiHunting3 - Completed!
+2022-08-27T20:27:28.1029317+00:00|SYSTEM|OlthoiHunting4 - Completed!
+2022-08-27T20:27:28.1039236+00:00|SYSTEM|OlthoiHunting6 - Completed!
+2022-08-27T20:27:28.1049158+00:00|SYSTEM|OnCowTipQuest - Completed!
+2022-08-27T20:27:28.1059077+00:00|SYSTEM|OnGolemMagmaExarchSlayerQuest - Completed!
+2022-08-27T20:27:28.1064114+00:00|SYSTEM|OracleLuminanceRewardsAccess_1110 - Completed!
+2022-08-27T20:27:28.1073954+00:00|SYSTEM|OracleLuminanceRewardsQuestStart_1110 - Completed!
+2022-08-27T20:27:28.1078915+00:00|SYSTEM|OraclePortalEntry - Completed!
+2022-08-27T20:27:28.1088835+00:00|SYSTEM|OrdersMorgluukPickedUp - Completed!
+2022-08-27T20:27:28.1093796+00:00|SYSTEM|OswaldManualCompleted - Completed!
+2022-08-27T20:27:28.1098755+00:00|SYSTEM|ParadoxCarapacePickup - Completed!
+2022-08-27T20:27:28.1108676+00:00|SYSTEM|ParadoxEggPickup - Completed!
+2022-08-27T20:27:28.1113634+00:00|SYSTEM|ParadoxEggStarted - Completed!
+2022-08-27T20:27:28.1118595+00:00|SYSTEM|ParadoxGrubKillTask - Completed!
+2022-08-27T20:27:28.1128519+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:29.5492660+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:29.5502577+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:29.5512497+00:00|BROADCAST|Page: 12 / 18
+2022-08-27T20:27:29.5517458+00:00|SYSTEM|ParadoxNymphKillTask - Completed!
+2022-08-27T20:27:29.5522422+00:00|SYSTEM|ParadoxNymphKillTaskWait - Completed!
+2022-08-27T20:27:29.5532339+00:00|SYSTEM|ParadoxQueenLair - Completed!
+2022-08-27T20:27:29.5537299+00:00|SYSTEM|ParadoxQueenStarted - Completed!
+2022-08-27T20:27:29.5542261+00:00|SYSTEM|ParadoxQueenWait - Completed!
+2022-08-27T20:27:29.5562104+00:00|SYSTEM|PathwardenComplete - Completed!
+2022-08-27T20:27:29.5572017+00:00|SYSTEM|PathwardenFound1111 - Completed!
+2022-08-27T20:27:29.5576979+00:00|SYSTEM|PerfectlyAgedCoveCiderQuest - Completed!
+2022-08-27T20:27:29.5581937+00:00|SYSTEM|PetDrudgeCompleted_1111 - Completed!
+2022-08-27T20:27:29.5586899+00:00|SYSTEM|PickedUpCrownBaronNuvillus - Completed!
+2022-08-27T20:27:29.5601777+00:00|SYSTEM|PickedUpDanshaKiBelongings - Completed!
+2022-08-27T20:27:29.5606742+00:00|SYSTEM|PickedUpTheMasterToken - Completed!
+2022-08-27T20:27:29.5611699+00:00|SYSTEM|ProdigalMonougaStarted0707 - Completed!
+2022-08-27T20:27:29.5616658+00:00|SYSTEM|pyrealmoteayan - Completed!
+2022-08-27T20:27:29.5626581+00:00|SYSTEM|RadiantShardGiven - Completed!
+2022-08-27T20:27:29.5631540+00:00|SYSTEM|RecallTuskerIsland - Completed!
+2022-08-27T20:27:29.5636500+00:00|SYSTEM|RenaldMug - Completed!
+2022-08-27T20:27:29.5641458+00:00|SYSTEM|RenaldRefusal - Completed!
+2022-08-27T20:27:29.5646424+00:00|SYSTEM|renaldsoldmug - Completed!
+2022-08-27T20:27:29.5666261+00:00|SYSTEM|RhujunSwampStoneGiven - Completed!
+2022-08-27T20:27:29.5676177+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:30.9960960+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:30.9970883+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:30.9975844+00:00|BROADCAST|Page: 13 / 18
+2022-08-27T20:27:30.9980803+00:00|SYSTEM|RingMaelstrom - Completed!
+2022-08-27T20:27:30.9985763+00:00|SYSTEM|SeaTempleCatacombsCompleted_1111 - Completed!
+2022-08-27T20:27:30.9995682+00:00|SYSTEM|ShemzaYellowJewelGiven - Completed!
+2022-08-27T20:27:31.0000642+00:00|SYSTEM|ShoushiBraidBracelet1204 - Completed!
+2022-08-27T20:27:31.0005602+00:00|SYSTEM|ShoushiBraidKatar1204 - Completed!
+2022-08-27T20:27:31.0015522+00:00|SYSTEM|ShoushiBraidNecklace1204 - Completed!
+2022-08-27T20:27:31.0020480+00:00|SYSTEM|ShoushiBraidRing1204 - Completed!
+2022-08-27T20:27:31.0030404+00:00|SYSTEM|ShoushiBraidShuriken1204 - Completed!
+2022-08-27T20:27:31.0035363+00:00|SYSTEM|ShoushiBraidTrident1204 - Completed!
+2022-08-27T20:27:31.0040319+00:00|SYSTEM|ShoushiNenAiCheese1204 - Completed!
+2022-08-27T20:27:31.0056440+00:00|SYSTEM|ShoushiNenAiCider1204 - Completed!
+2022-08-27T20:27:31.0065122+00:00|SYSTEM|ShoushiStoneCompassion - Completed!
+2022-08-27T20:27:31.0070083+00:00|SYSTEM|ShoushiStoneDetachment - Completed!
+2022-08-27T20:27:31.0075041+00:00|SYSTEM|ShoushiStoneDiscipline1204 - Completed!
+2022-08-27T20:27:31.0089922+00:00|SYSTEM|ShoushiStoneHumility1204 - Completed!
+2022-08-27T20:27:31.0099840+00:00|SYSTEM|SpokenBobo - Completed!
+2022-08-27T20:27:31.0109762+00:00|SYSTEM|SpokenToKielerea - Completed!
+2022-08-27T20:27:31.0114720+00:00|SYSTEM|SpokeWithAstara - Completed!
+2022-08-27T20:27:31.0119681+00:00|SYSTEM|SpokeWithDelton - Completed!
+2022-08-27T20:27:31.0124642+00:00|SYSTEM|SpokeWithSyltyn - Completed!
+2022-08-27T20:27:31.0129601+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:35.8836751+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:35.8851626+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:35.8856588+00:00|BROADCAST|Page: 14 / 18
+2022-08-27T20:27:35.8866505+00:00|SYSTEM|StartedFireGolems - Completed!
+2022-08-27T20:27:35.8871465+00:00|SYSTEM|StartedWaterGolems - Completed!
+2022-08-27T20:27:35.8876428+00:00|SYSTEM|StipendsCollectedInAMonth - Completed!
+2022-08-27T20:27:35.8886345+00:00|SYSTEM|StipendTimer_0812 - Completed!
+2022-08-27T20:27:35.8891305+00:00|SYSTEM|StipendTimer_Monthly - Completed!
+2022-08-27T20:27:35.8896264+00:00|SYSTEM|stolenamulet - Completed!
+2022-08-27T20:27:35.8901223+00:00|SYSTEM|stolenbracelet - Completed!
+2022-08-27T20:27:35.8911143+00:00|SYSTEM|stolenbrewkettle - Completed!
+2022-08-27T20:27:35.8916105+00:00|SYSTEM|stolenewer - Completed!
+2022-08-27T20:27:35.8921065+00:00|SYSTEM|stolenfryingpan - Completed!
+2022-08-27T20:27:35.8926025+00:00|SYSTEM|stolennecklace - Completed!
+2022-08-27T20:27:35.8935945+00:00|SYSTEM|stolenplatter - Completed!
+2022-08-27T20:27:35.8940903+00:00|SYSTEM|stolenring - Completed!
+2022-08-27T20:27:35.8945867+00:00|SYSTEM|StoneofRezarel_Pickup - Completed!
+2022-08-27T20:27:35.8955790+00:00|SYSTEM|StrongholdBuilder - Completed!
+2022-08-27T20:27:35.8960746+00:00|SYSTEM|StrongholdBuilderComplete - Completed!
+2022-08-27T20:27:35.8965705+00:00|SYSTEM|StrongholdHumanBuilder - Completed!
+2022-08-27T20:27:35.8975626+00:00|SYSTEM|StrongholdLugianBuilder - Completed!
+2022-08-27T20:27:35.8980586+00:00|SYSTEM|StrongholdTumerokBuilder - Completed!
+2022-08-27T20:27:35.8990507+00:00|SYSTEM|TalkedToDaliusKendmar - Completed!
+2022-08-27T20:27:35.8995467+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:37.5011288+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:37.5021215+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:37.5026173+00:00|BROADCAST|Page: 15 / 18
+2022-08-27T20:27:37.5031133+00:00|SYSTEM|TalkedToLadyDain - Completed!
+2022-08-27T20:27:37.5036093+00:00|SYSTEM|TALKEDTOOWNER - Completed!
+2022-08-27T20:27:37.5050972+00:00|SYSTEM|TempleEnlightenmentBistort - Completed!
+2022-08-27T20:27:37.5065850+00:00|SYSTEM|TempleEnlightenmentComfrey - Completed!
+2022-08-27T20:27:37.5070809+00:00|SYSTEM|TempleEnlightenmentDragonsblood - Completed!
+2022-08-27T20:27:37.5080725+00:00|SYSTEM|TempleEnlightenmentEyebright - Completed!
+2022-08-27T20:27:37.5100566+00:00|SYSTEM|TempleEnlightenmentGinseng - Completed!
+2022-08-27T20:27:37.5105525+00:00|SYSTEM|TempleEnlightenmentHawthorn - Completed!
+2022-08-27T20:27:37.5110486+00:00|SYSTEM|TempleEnlightenmentMandrake - Completed!
+2022-08-27T20:27:37.5115446+00:00|SYSTEM|TempleEnlightenmentMugwort - Completed!
+2022-08-27T20:27:37.5130328+00:00|SYSTEM|TempleEnlightenmentMyrrh - Completed!
+2022-08-27T20:27:37.5145209+00:00|SYSTEM|TempleEnlightenmentSaffron - Completed!
+2022-08-27T20:27:37.5160088+00:00|SYSTEM|TempleEnlightenmentVervain - Completed!
+2022-08-27T20:27:37.5174968+00:00|SYSTEM|TempleEnlightenmentYarrow - Completed!
+2022-08-27T20:27:37.5179929+00:00|SYSTEM|TempleForgetfulnessBistort - Completed!
+2022-08-27T20:27:37.5184891+00:00|SYSTEM|TempleForgetfulnessComfrey - Completed!
+2022-08-27T20:27:37.5194809+00:00|SYSTEM|TempleForgetfulnessDamiana - Completed!
+2022-08-27T20:27:37.5199766+00:00|SYSTEM|TempleForgetfulnessDragonsblood - Completed!
+2022-08-27T20:27:37.5204732+00:00|SYSTEM|TempleForgetfulnessEyebright - Completed!
+2022-08-27T20:27:37.5219607+00:00|SYSTEM|TempleForgetfulnessGinseng - Completed!
+2022-08-27T20:27:37.5224567+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:38.6458958+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:38.6468881+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:38.6473840+00:00|BROADCAST|Page: 16 / 18
+2022-08-27T20:27:38.6483758+00:00|SYSTEM|TempleForgetfulnessHawthorn - Completed!
+2022-08-27T20:27:38.6488717+00:00|SYSTEM|TempleForgetfulnessHyssop - Completed!
+2022-08-27T20:27:38.6503593+00:00|SYSTEM|TempleForgetfulnessMandrake - Completed!
+2022-08-27T20:27:38.6508553+00:00|SYSTEM|TempleForgetfulnessMugwort - Completed!
+2022-08-27T20:27:38.6518475+00:00|SYSTEM|TempleForgetfulnessMyrrh - Completed!
+2022-08-27T20:27:38.6523434+00:00|SYSTEM|TempleForgetfulnessSaffron - Completed!
+2022-08-27T20:27:38.6533354+00:00|SYSTEM|TempleForgetfulnessVervain - Completed!
+2022-08-27T20:27:38.6538314+00:00|SYSTEM|TempleForgetfulnessWormwood - Completed!
+2022-08-27T20:27:38.6543274+00:00|SYSTEM|TempleForgetfulnessYarrow - Completed!
+2022-08-27T20:27:38.6553194+00:00|SYSTEM|ThrungusHovels - Completed!
+2022-08-27T20:27:38.6558153+00:00|SYSTEM|ThrungusHovelsItemTurnIn - Completed!
+2022-08-27T20:27:38.6568079+00:00|SYSTEM|TotalFireGolemDead - Completed!
+2022-08-27T20:27:38.6577995+00:00|SYSTEM|TotalGolemMagmaExarchDead - Completed!
+2022-08-27T20:27:38.6582954+00:00|SYSTEM|TotalWaterGolemDead - Completed!
+2022-08-27T20:27:38.6592877+00:00|SYSTEM|tradealliancemossyherb - Completed!
+2022-08-27T20:27:38.6597838+00:00|SYSTEM|TradeAllianceQuestCompleted - Completed!
+2022-08-27T20:27:38.6607762+00:00|SYSTEM|TradeAllianceQuestStarted - Completed!
+2022-08-27T20:27:38.6612718+00:00|SYSTEM|TrustBetrayalBug0905 - Completed!
+2022-08-27T20:27:38.6627601+00:00|SYSTEM|TURNEDINANTIQUEPLATTERHAUNTEDMANSION - Completed!
+2022-08-27T20:27:38.6637519+00:00|SYSTEM|TURNEDINJEWELEMERALDHAUNTEDMANSION - Completed!
+2022-08-27T20:27:38.6647449+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:40.1041336+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:40.1056217+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:40.1066140+00:00|BROADCAST|Page: 17 / 18
+2022-08-27T20:27:40.1076057+00:00|SYSTEM|TURNEDINSHIRTPUFFYHAUNTEDMANSION - Completed!
+2022-08-27T20:27:40.1085977+00:00|SYSTEM|TuskCrimsonbackPickUp - Completed!
+2022-08-27T20:27:40.1090939+00:00|SYSTEM|TuskerG - Completed!
+2022-08-27T20:27:40.1095897+00:00|SYSTEM|TuskerGkillcount - Completed!
+2022-08-27T20:27:40.1105820+00:00|SYSTEM|TuskFemalePickUp - Completed!
+2022-08-27T20:27:40.1110777+00:00|SYSTEM|TuskMalePickUp - Completed!
+2022-08-27T20:27:40.1115737+00:00|SYSTEM|UndeadMechanismPickup4 - Completed!
+2022-08-27T20:27:40.1125658+00:00|SYSTEM|UnleashGearKnightStart0909 - Completed!
+2022-08-27T20:27:40.1135575+00:00|SYSTEM|upperinsatiablejaw - Completed!
+2022-08-27T20:27:40.1145497+00:00|SYSTEM|viamontianmanatarmskillcount - Completed!
+2022-08-27T20:27:40.1155424+00:00|SYSTEM|ViamontianManatArmsKillTask - Completed!
+2022-08-27T20:27:40.1165341+00:00|SYSTEM|VirindiAxe - Completed!
+2022-08-27T20:27:40.1170301+00:00|SYSTEM|VirindiEssence - Completed!
+2022-08-27T20:27:40.1175263+00:00|SYSTEM|VirindiIsland - Completed!
+2022-08-27T20:27:40.1185180+00:00|SYSTEM|VirindiTatteredCloak - Completed!
+2022-08-27T20:27:40.1190137+00:00|SYSTEM|VissFlagComplete - Completed!
+2022-08-27T20:27:40.1195093+00:00|SYSTEM|YaojiLouKaQuest - Completed!
+2022-08-27T20:27:40.1205017+00:00|SYSTEM|YaraqAhyaraLetter - Completed!
+2022-08-27T20:27:40.1214937+00:00|SYSTEM|YaraqAppleCovePerfect1204 - Completed!
+2022-08-27T20:27:40.1224857+00:00|SYSTEM|YaraqApplePieHot1204 - Completed!
+2022-08-27T20:27:40.1229817+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:41.5703082+00:00|SYSTEM|[QUESTS] You have 18 pages of quest stamps, input what page you wish to view. ie. /qb list 2 for page two.
+2022-08-27T20:27:41.5717969+00:00|SYSTEM|#------Quests------#
+2022-08-27T20:27:41.5732842+00:00|BROADCAST|Page: 18 / 18
+2022-08-27T20:27:41.5742760+00:00|SYSTEM|YaraqBakingPanCoveApple1204 - Completed!
+2022-08-27T20:27:41.5747720+00:00|SYSTEM|YaraqCiderCoveAppleAged1204 - Completed!
+2022-08-27T20:27:41.5757645+00:00|SYSTEM|YaraqCiderHardCoveApple1204 - Completed!
+2022-08-27T20:27:41.5762603+00:00|SYSTEM|YaraqHeadMarionetteMadStar1204 - Completed!
+2022-08-27T20:27:41.5767563+00:00|SYSTEM|YaraqKnifeCoveApple1204 - Completed!
+2022-08-27T20:27:41.5772520+00:00|SYSTEM|YaraqNasunLetter - Completed!
+2022-08-27T20:27:41.5782439+00:00|SYSTEM|YaraqNoteCoveCrypt1204 - Completed!
+2022-08-27T20:27:41.5787402+00:00|SYSTEM|YaraqWineCoveApple1204 - Completed!
+2022-08-27T20:27:41.5797321+00:00|SYSTEM|ZaikhalDefenseCopperComplete_0511 - Completed!
+2022-08-27T20:27:41.5802284+00:00|SYSTEM|#------Quests------#
