@@ -17,7 +17,7 @@ If using pre-built:
 
 ## Recommendations
 
-* Installed [UtilityBelt](https://utilitybelt.gitlab.io/) Decal Plugin for help with exporting the above `/qb list` and `myquests` list
+* Installed [UtilityBelt](https://utilitybelt.gitlab.io/) Decal Plugin for help with exporting the above `/qb list`
     * `/qb list` counts as a `System` message in the UtilityBelt `Chat Log` utility
 * Reading the documentation
 
