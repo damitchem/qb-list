@@ -34,6 +34,24 @@ func (s *ServerQbList) addQb(record []string, unconfirmed bool) error {
 	return nil
 }
 
+func (s *ServerQbList) addUndiscoveredQb(flagName string) {
+	flag := strings.ToUpper(strings.TrimSpace(flagName))
+
+	if _, ok := s.QBs[flag]; ok {
+		// Somehow we're trying to add a QB we already have again
+		return
+	}
+	s.QBs[flag] = &QB{
+		Flag:        flagName,
+		Quest:       "Unknown",
+		Action:      "Unknown",
+		Notes:       "This flag was not known in the master list, please report it in Discord",
+		ServerDef:   "Unknown",
+		Completed:   true,
+		Unconfirmed: false,
+	}
+}
+
 func (s *ServerQbList) GetQB(flagName string) *QB {
 	flag := strings.ToUpper(strings.TrimSpace(flagName))
 	return s.QBs[flag]
