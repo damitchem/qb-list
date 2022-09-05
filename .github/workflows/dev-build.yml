@@ -19,5 +19,5 @@ jobs:
         go-version: 1.18
 
     - name: Build
-      working-directory: src
-      run: go build -v cmd/qb-list
+      working-directory: src/cmd/qb-list
+      run: go build -v .
