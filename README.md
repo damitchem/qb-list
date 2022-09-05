@@ -1,5 +1,5 @@
 # QB List
-"QB List" parser for Infinite Frosthaven Asheron's Call server. Integrates with the already available [AC Quest & Qb List](https://docs.google.com/spreadsheets/d/1RijHs24riB7ww21W7RUfDMdMCi3MqWk8PQCiW-ybryI/edit#gid=737277478).
+"QB List" parser for Infinite Frosthaven Asheron's Call server. Integrates with the already available [AC Quest & Qb List](https://docs.google.com/spreadsheets/d/1RijHs24riB7ww21W7RUfDMdMCi3MqWk8PQCiW-ybryI/edit#gid=737277478) created by Angrboa.
 
 ## Requirements
 
