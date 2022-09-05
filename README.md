@@ -24,20 +24,20 @@ If using pre-built:
 ## Building
 
 * Run `go get` inside of `src`
-* Run `go build` inside of `src`
+* Run `go build cmd/qb-list/qb-list.go`
 
 ## Getting Started
 
 * Either download one of the [latest releases](https://github.com/damitchem/qb-list/releases) or build from source
 * Run the executable via CMD (or any command-line terminal) using appropriate flags defined below
-  * Example: qb-list.exe -input='myqbs.txt' -output='C:\\\Games' -loglevel='Warn'
+  * Example: qb-list.exe -input=resources/utility-belt-sample.txt -output=C:\\Games -loglevel='Warn'
 
 # Documentation
 
 ## Flags
 
-| Flag      | Short-hand | Description                           | Required? |
-|-----------|------------|---------------------------------------|-----------|
-| -input    | -input     | Your input QB file                    | TRUE      |
- | -output   | -output    | Output directory, defaults to current | FALSE     |
- | -loglevel | -loglevel  | Minimum log level, defaults to Info   | FALSE     |
+| Flag      | Description                           | Required? |
+|-----------|---------------------------------------|-----------|
+| -input    | Your input QB file                    | TRUE      |
+ | -output   | Output directory, defaults to current | FALSE     |
+ | -loglevel | Minimum log level, defaults to Info   | FALSE     |
