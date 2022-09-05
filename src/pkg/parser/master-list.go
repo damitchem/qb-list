@@ -31,11 +31,11 @@ func (m *MasterList) associateQbsToQuests() *MasterList {
 }
 
 func (m *MasterList) markQbsAsComplete() *MasterList {
-	for flag := range m.AccountQbList.QBs {
-		qb := m.AccountQbList.QBs[flag]
-		serverQb := m.ServerQbList.GetQB(qb)
+	for _, flag := range m.AccountQbList.QBs {
+		serverQb := m.ServerQbList.GetQB(flag)
 		if serverQb == nil {
-			m.logger.Info("QB marked as completed, but we don't have a record of the flag, report this!", "flag", qb)
+			m.logger.Info("QB marked as completed, but we don't have a record of the flag, report this!", "flag", flag)
+			m.ServerQbList.addUndiscoveredQb(flag)
 			continue
 		}
 		serverQb.Completed = true
