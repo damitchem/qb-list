@@ -79,8 +79,10 @@ func writeQbFile(list parser.ServerQbList, outputDirectory string) error {
 		if err != nil {
 			return fmt.Errorf("error writing %v header: %v", fileName, err)
 		}
+		writer.Flush()
 	}
 	csvWriter := csv.NewWriter(writer)
+	defer f.Close()
 
 	var unconfirmed []*parser.QB
 	// First write all the confirmed QBs
@@ -97,8 +99,12 @@ func writeQbFile(list parser.ServerQbList, outputDirectory string) error {
 
 	// Now write the rest of the unconfirmed QBs
 	for _, qb := range unconfirmed {
-		csvWriter.Write(qb.GetRecord())
+		err = csvWriter.Write(qb.GetRecord())
+		if err != nil {
+			return err
+		}
 	}
+	csvWriter.Flush()
 
 	return nil
 }
@@ -120,5 +126,6 @@ func writeQuestFile(list parser.ServerQuestList, outputDirectory string) error {
 	for _, quest := range list.Quests {
 		csvWriter.Write(quest.GetRecord())
 	}
+	csvWriter.Flush()
 	return nil
 }
