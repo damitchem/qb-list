@@ -122,6 +122,7 @@ func writeQuestFile(list parser.ServerQuestList, outputDirectory string) error {
 			return fmt.Errorf("error writing %v header: %v", fileName, err)
 		}
 	}
+	defer f.Close()
 	csvWriter := csv.NewWriter(writer)
 	for _, quest := range list.Quests {
 		csvWriter.Write(quest.GetRecord())
